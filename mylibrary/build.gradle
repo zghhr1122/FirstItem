@@ -5,7 +5,7 @@ plugins {
 // JitPack Maven
 apply plugin: 'com.github.dcendents.android-maven'
 // Your Group
-group='com.github.username'
+group='com.github.zghhr1122'
 
 android {
     compileSdkVersion 30
